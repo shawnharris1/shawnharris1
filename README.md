@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/dipmedia/">Shawn Harris</a>'s IAM & Cloud Security | GRC Support Portfolio 🔐
 
-I’m passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. From identity and access management to cloud security and compliance, these projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to explore my work and see how I’m contributing to enhancing security operations and processes!
+I’m passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. These projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to explore my work and see how I’m contributing to enhancing security operations and processes!
 
 
 <hr/>
