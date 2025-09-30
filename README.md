@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/dipmedia/">Shawn Harris</a>'s IAM & Cloud Security | GRC Support Portfolio 🔐
+# <a href="https://www.linkedin.com/in/dipmedia/">Shawn Harris</a>'s IAM & Cloud Security | GRC Support Journey
 
 I’m passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. These projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to explore my work and see how I’m contributing to enhancing security operations and processes!
 
